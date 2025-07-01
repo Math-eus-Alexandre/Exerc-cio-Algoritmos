@@ -4,7 +4,11 @@ Repositório referente ao trabalho 4 da matéria de Introdução a Ciência da C
 Alunos:
 
 Matheus Alexandre Santos
+
 Luiz Miguel Silvino
+
 Carlos Eduardo Machado
+
 Carlos Henrique Deucher
+
 Guilherme Melo
